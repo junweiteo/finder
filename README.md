@@ -50,15 +50,37 @@ The application has a favourites feature whereby users can add items that they l
 | Filter by date function | This helps shoppers to shop for clothes based on how new they are. |
 | Add reviews for individual items | This allows shoppers to leave reviews for individual items and allows sorting by popularity to help shoppers identify which are the more popular clothes right now. |
 
-
-
-
-
 ## [Developer Guide](https://docs.google.com/document/d/1zTsLrKHNAHJqrbxkYPd_cT5bJ3cwo6aarTBEzBbRbPU/edit?usp=sharing)
 
 ## [User Guide](https://docs.google.com/document/d/1qWwqgJbvjqEPv1MFZ4-y8aJB6Vww-X4QdPTuSfW62iI/edit?usp=sharing)
 
-## Tech Stack:
+## Technical Proof of Concept 
+
+- Home/Login Screen 
+<img src="./images/Home.PNG" alt="Login" title="Login" width="414" height="896" /> 
+
+- Welcome Screen
+<img src="./images/Welcome.PNG" alt="Welcome" title="Welcome" width="414" height="896" />
+
+- Forgot Password Screen
+
+- Sign Up Screen
+
+- Main/Search and Results Screen in Grid View
+
+- Main/Search and Results Screen in Vertical List View
+
+- Feedback Screen
+
+- Filter Pop-up Screen
+
+- Sort Pop-up Screen
+
+- Favourites Screen 
+
+- Profile Screen
+
+## Tech Stack
 1. React Native
 2. Firebase
 3. JavaScript
