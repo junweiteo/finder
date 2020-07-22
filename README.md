@@ -41,6 +41,8 @@ The application also has filtering features that allows users to input their bra
 The application has a favourites feature whereby users can add items that they like to their favourites list for safekeeping purposes. They can also choose to remove it from the list if they do not like it anymore. This way, they can bookmark the items if they wish to view or purchase it another time.
 
 ## Expansion/Future Plans
+| Feature       | How it is meant to help: |
+| ----------------------------- |:---------------------------------:| 
 
 ## [Developer Guide](https://docs.google.com/document/d/1zTsLrKHNAHJqrbxkYPd_cT5bJ3cwo6aarTBEzBbRbPU/edit?usp=sharing)
 
