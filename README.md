@@ -57,28 +57,37 @@ The application has a favourites feature whereby users can add items that they l
 ## Technical Proof of Concept 
 
 - Home/Login Screen 
-<img src="./images/Home.PNG" alt="Login" title="Login" width="414" height="896" /> 
+<img src="./images/Home.PNG" alt="Login" title="Login" width="212" height="448" /> 
 
 - Welcome Screen
-<img src="./images/Welcome.PNG" alt="Welcome" title="Welcome" width="414" height="896" />
+<img src="./images/Welcome.PNG" alt="Welcome" title="Welcome" width="212" height="448" />
 
 - Forgot Password Screen
+<img src="./images/Forgot Password.png" alt="Forgot Password" title="Forgot Password" width="212" height="448" />
 
 - Sign Up Screen
+<img src="./images/Sign Up.PNG" alt="Sign Up" title="Sign Up" width="212" height="448" />
 
 - Main/Search and Results Screen in Grid View
+<img src="./images/Main.PNG" alt="Main" title="Main" width="212" height="448" />
 
 - Main/Search and Results Screen in Vertical List View
+<img src="./images/List View.PNG" alt="List View" title="List View" width="212" height="448" />
 
 - Feedback Screen
+<img src="./images/Feedback.png" alt="Feedback" title="Feedback" width="212" height="448" />
 
 - Filter Pop-up Screen
+<img src="./images/Filter.png" alt="Filter" title="Filter" width="212" height="448" />
 
 - Sort Pop-up Screen
+<img src="./images/Sort.PNG" alt="Sort" title="Sort" width="212" height="448" />
 
 - Favourites Screen 
+<img src="./images/Favourites.png" alt="Favourites" title="Favourites" width="212" height="448" />
 
 - Profile Screen
+<img src="./images/Profile.PNG" alt="Profile" title="Profile" width="212" height="448" />
 
 ## Tech Stack
 1. React Native
