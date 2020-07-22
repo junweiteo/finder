@@ -41,8 +41,18 @@ The application also has filtering features that allows users to input their bra
 The application has a favourites feature whereby users can add items that they like to their favourites list for safekeeping purposes. They can also choose to remove it from the list if they do not like it anymore. This way, they can bookmark the items if they wish to view or purchase it another time.
 
 ## Expansion/Future Plans
-| Feature       | How it is meant to help: |
-| ----------------------------- |:---------------------------------:| 
+| Feature | How it is meant to help: |
+| --- | --- |
+| Create a seller’s version of Finder | When sellers can create their own seller account, they will be able to upload their clothes onto Finder’s database to be shown to customers. This way, sellers can frequently do their update of stocks in Finder and shoppers will be able to see the latest clothes in stock. To differentiate Finder from apps like Carousell, there can be authorisation checks to make sure that sellers are authorised local blogshops in Singapore. |
+| After shoppers click on an item, they can view details of that item before directing shoppers to the shop’s website | It helps shoppers know more about the clothes that they are interested in before going to the actual website to purchase it. | 
+| Add sizes available to the clothes | This helps shoppers to find clothes of their size. |
+| Filter by sizes function | This helps shoppers find clothes of their size. | 
+| Filter by date function | This helps shoppers to shop for clothes based on how new they are. |
+| Add reviews for individual items | This allows shoppers to leave reviews for individual items and allows sorting by popularity to help shoppers identify which are the more popular clothes right now. |
+
+
+
+
 
 ## [Developer Guide](https://docs.google.com/document/d/1zTsLrKHNAHJqrbxkYPd_cT5bJ3cwo6aarTBEzBbRbPU/edit?usp=sharing)
 
