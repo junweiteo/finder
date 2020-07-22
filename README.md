@@ -1,4 +1,4 @@
-# Orbital README Milestone III
+# Finder README Milestone III
 
 Proposed Level of Achievement: Apollo 11
 
@@ -42,9 +42,9 @@ The application has a favourites feature whereby users can add items that they l
 
 ## Expansion/Future Plans
 
-## [Developer Guide] (https://docs.google.com/document/d/1zTsLrKHNAHJqrbxkYPd_cT5bJ3cwo6aarTBEzBbRbPU/edit?usp=sharing)
+## [Developer Guide](https://docs.google.com/document/d/1zTsLrKHNAHJqrbxkYPd_cT5bJ3cwo6aarTBEzBbRbPU/edit?usp=sharing)
 
-## [User Guide] (https://docs.google.com/document/d/1qWwqgJbvjqEPv1MFZ4-y8aJB6Vww-X4QdPTuSfW62iI/edit?usp=sharing)
+## [User Guide](https://docs.google.com/document/d/1qWwqgJbvjqEPv1MFZ4-y8aJB6Vww-X4QdPTuSfW62iI/edit?usp=sharing)
 
 ## Tech Stack:
 1. React Native
